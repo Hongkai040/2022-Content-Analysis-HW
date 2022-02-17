@@ -1,0 +1,10 @@
+data/
+.DS_Store
+.ipynb_checkpoints/
+
+__pycache__/
+commentsD2V_50movies
+commentsWORD2Vec_100K
+doubanWORD2Vec_100K
+img/
+tmpwork/
